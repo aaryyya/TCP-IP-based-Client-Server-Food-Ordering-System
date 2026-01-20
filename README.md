@@ -29,8 +29,7 @@ To run this project, you need:
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/aaryyya/TCP-IP-based-Client-Server-Food-Ordering-System.git
-cd Client-Server-Food-Ordering-System
-cd restaurant management system
+cd TCP-IP-based-Client-Server-Food-Ordering-System
 ```
 
 
